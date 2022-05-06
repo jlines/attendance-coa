@@ -1,0 +1,15 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "csv-parse": "^4.8.8",
+    "moment": "^2.24.0"
+  }
+}
